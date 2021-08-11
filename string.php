@@ -15,6 +15,7 @@ if (!empty($two_last_words[0])) {
 $result = '<a href="' . $link . '">' . $ashort_2_last_words . '...</a>';
 echo preg_replace('~[\S]+[\s]{1}[\S]+$~u', $result, $ashort);
 
+echo 'Главная проблема, которая может случится при решении этой задачи - это неэкранированные спецсимволы';
 
 echo '<br>'.'<a href="http://test.cc68909.tmweb.ru/index.php">На главную</a>'.'<br>';
 echo '<br>'.'<a href="https://github.com/opsandrew/test/blob/master/string.php">Репозиторий</a>'.'<br>';
