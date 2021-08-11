@@ -50,4 +50,6 @@ imagePng($tmp, 'img/444_1.png');
 echo 'Изображние после ресайза';
 echo '<img class="banner" src="/img/444_1.png"/>';
 echo '<br>'.'<a href="http://test.cc68909.tmweb.ru/index.php">На главную</a>'.'<br>';
+echo '<br>'.'<a href="https://github.com/opsandrew/test/blob/master/image.php">Репозиторий</a>'.'<br>';
+
 ?>;

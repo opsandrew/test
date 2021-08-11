@@ -17,4 +17,4 @@ echo preg_replace('~[\S]+[\s]{1}[\S]+$~u', $result, $ashort);
 
 
 echo '<br>'.'<a href="http://test.cc68909.tmweb.ru/index.php">На главную</a>'.'<br>';
-echo '<br>'.'<a href="http://test.cc68909.tmweb.ru/index.php">Репозиторий</a>'.'<br>';
+echo '<br>'.'<a href="https://github.com/opsandrew/test/blob/master/string.php">Репозиторий</a>'.'<br>';

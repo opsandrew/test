@@ -19,3 +19,5 @@ foreach ( $array as $key => $value ) {
   echo '<br>'.'Значние '.$key.' повторяется '.$value.' раз'.'<br>';
 }
 echo '<br>'.'<a href="http://test.cc68909.tmweb.ru/index.php">На главную</a>'.'<br>';
+
+echo '<br>'.'<a href="https://github.com/opsandrew/test/blob/master/string.php">Репозиторий</a>'.'<br>';
